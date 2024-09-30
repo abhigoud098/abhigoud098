@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **React & Tailwind CSS**
-
-- 👯 I’m looking to collaborate on **Frontend development projects, open-source contributions, and innovative software solutions.**
+- 🌱 I’m currently working **React & Tailwind CSS**
 
 - 🤝 I’m looking for help with **Improving my skills in Java, Python, and algorithms.**
 
