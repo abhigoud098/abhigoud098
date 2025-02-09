@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Abhishek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> LeetCode 🌟</h3>
+<h3> LeetCode Info🌟</h3>
 <p align="center">
   <a href="https://leetcode.com/u/Abhishek369d/" target="_blank">
     <img class="rotate-badge" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="LeetCode Badge" height="200" width="200" />
