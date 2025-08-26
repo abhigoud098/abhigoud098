@@ -18,8 +18,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhishek369d?theme=dark&font=Abel&ext=heatmap)](https://leetcode.com/u/Abhishek369d/)
-
 
 </br>
 
