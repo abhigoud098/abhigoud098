@@ -1,20 +1,5 @@
 <h2> Hey there! I'm Abhishek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> LeetCode Info🌟</h3>
-<p align="center">
-  <a href="https://leetcode.com/u/Abhishek369d/" target="_blank">
-    <img class="rotate-badge" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="LeetCode Badge" height="200" width="200" />
-  </a>
- <a href="https://leetcode.com/u/Abhishek369d/" target="_blank">
-    <img class="rotate-badge" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" alt="LeetCode Badge" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/Abhishek369d/" target="_blank">
-    <img class="rotate-badge" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 3" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/Abhishek369d/" target="_blank">
-    <img class="rotate-badge" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 4" height="200" width="200" />
-  </a>
-</p>
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"/>
 
