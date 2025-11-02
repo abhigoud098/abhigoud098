@@ -81,14 +81,14 @@
 
   <p></p>
   <a href="https://github.com/abhigoud098?tab=repositories" target="_blank" rel="noopener">
-    <img src="https://custom-icon-badges.demolab.com/badge/-💻%20Check%20My%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=00C6FF" alt="Check My Repos"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-%20Check%20My%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=00C6FF" alt="Check My Repos"/>
   </a>
 </div>
 
 ---
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=footer&text=Thanks%20for%20visiting!%20💙&fontSize=25&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=footer&text=Thanks%20for%20visiting!%20👀&fontSize=25&fontColor=ffffff)
 
 
 
