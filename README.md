@@ -88,32 +88,6 @@ That experience sparked my interest in Web3, and I'm continuing to deepen my und
 * Smart Contract Security
 * Web3 Architecture
 * Decentralized Applications
-* 
-```text
-React / Next.js
-       │
-       ▼
-Web3 Integration
-       │
-       ├── Ethers.js
-       ├── MetaMask
-       └── Digital Signatures
-       │
-       ▼
-Blockchain
-       │
-       ├── Ethereum
-       ├── Polygon
-       ├── Solidity
-       └── Hardhat
-       │
-       ▼
-Smart Contracts
-       │
-       ▼
-Decentralized Applications
-```
-
 ---
 
 # 🔥 GitHub Streak
@@ -146,22 +120,6 @@ Decentralized Applications
     alt="Top Languages by Commit"
   />
 </p>
----
-
-# 💻 Development Philosophy
-
-```javascript
-while (learning) {
-    build();
-    breakThings();
-    debug();
-    learn();
-    improve();
-}
-```
-
-> **"Build. Learn. Break. Fix. Repeat."**
-
 ---
 
 # 📬 Connect
