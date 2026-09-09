@@ -69,6 +69,7 @@ This experience sparked my interest in **Web3**, and I continue to explore block
 
 - Solidity
 - Hardhat
+- IPFS
 
 ### ☕ Typed Language
 
