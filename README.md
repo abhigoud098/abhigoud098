@@ -60,7 +60,7 @@ This experience sparked my interest in **Web3**, and I continue to explore block
     alt="Hardhat"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9f/IPFS_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
     height="55"
     width="55"
     alt="IPFS"
