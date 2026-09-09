@@ -16,13 +16,13 @@ Building scalable web applications • Exploring Web3 • Always learning
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer with a strong interest in building scalable, performant, and user-focused web applications.
+I'm a **Frontend Developer** focused on building scalable, performant, and user-focused web applications.
 
-Currently, I'm working as a **React.js Intern**, where I contribute to modern frontend applications using **React, TypeScript, Redux Toolkit, Tailwind CSS, and REST APIs**.
+Currently, I'm working full-time as a **React.js Developer**, where I build and contribute to modern frontend applications using **React, TypeScript, Redux Toolkit, Tailwind CSS, and REST APIs**. I focus on writing maintainable, reusable, and production-ready code while building intuitive user experiences.
 
-During my internship, I also worked on integrating a blockchain-based certificate verification platform, which introduced me to **Ethereum, Solidity, Hardhat, Ethers.js, digital signatures, and smart contract interactions**.
+My experience also includes working with a **blockchain-based certificate verification platform**, where I gained hands-on exposure to **Ethereum, Solidity, Hardhat, Ethers.js, digital signatures, and smart contract interactions**.
 
-That experience sparked my interest in Web3, and I'm continuing to deepen my understanding of blockchain technologies and decentralized applications.
+This experience sparked my interest in **Web3**, and I continue to explore blockchain technologies alongside my core expertise in frontend development.
 ---
 
 # ⚡ Tech Stack
