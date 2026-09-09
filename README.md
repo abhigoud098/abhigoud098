@@ -59,6 +59,12 @@ This experience sparked my interest in **Web3**, and I continue to explore block
     width="55"
     alt="Hardhat"
   />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipfs/ipfs-original.svg"
+    height="55"
+    width="55"
+    alt="IPFS"
+  />
 </p>
 
 - Solidity
