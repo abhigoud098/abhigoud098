@@ -30,7 +30,7 @@ This experience sparked my interest in **Web3**, and I continue to explore block
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,vite,redux" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
